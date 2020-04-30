@@ -12,3 +12,36 @@
     font-size: 8em;
     color: white;
 }
+[data-category-id="6"].category-box {
+    background-color: #ff9933;
+}
+[data-category-id="7"].category-box {
+    background-color: #cc3333;
+}
+[data-category-id="8"].category-box {
+    background-color: #006699;
+}
+[data-category-id="9"].category-box {
+    background-color: #339966;
+}
+[data-category-id="10"].category-box {
+    background-color: #333333;
+}
+[data-category-id="11"].category-box {
+    background-color: #663399;
+}
+.category-boxes h3 {
+    color: #fff;
+    text-transform: uppercase;
+}
+.category-boxes .category-box-inner, 
+.category-boxes-with-topics .category-box-inner {
+    border-color: none;
+    padding: 0;
+    border-width: 0;
+}
+.category-boxes .description {
+    text-align: left;
+    color: #ffffff;
+    padding-top: 1em;
+}
