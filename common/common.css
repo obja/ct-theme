@@ -34,7 +34,24 @@
 .custom-search-banner {
     background-color: #3558d9;
 }
+.custom-search-banner-wrap {
+    padding-bottom: 0;
+    margin-bottom:0;
+}
 ///wha?
 .custom-search-banner h1 {
     color: #ffffff;
+}
+.banner-box #banner-content_wrap .row .single-box {
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: left;
+}
+.banner-box h1, .banner-box h2, .banner-box h3 {
+    text-shadow: 0 0 1.4em #5b4b4e, 0 0 0.25em #5b4b4e;
+    font-size: 42px;
+}
+.banner-box {
+    text-shadow: 0 0 1.4em #5b4b4e, 0 0 0.25em #5b4b4e;
+    font-size: 1.43rem;
 }
